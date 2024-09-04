@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "description": "Proyecto Node.js que verifica si un número es primo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tu Nombre",
+  "license": "ISC"
+}
